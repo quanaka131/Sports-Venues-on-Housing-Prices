@@ -1,0 +1,55 @@
+cbsa_code,metro_name,open_year,open_month,open_ym,venuename,facility_type,teams,totalcost2020,publiccost2020,pubpct100,unmatched
+394466,"Cincinnati, OH",2000,9,2000-09,Paul Brown Stadium,stadium,Cincinnati Bengals,675.0,606.0,89.777779,False
+395057,"San Francisco, CA",2000,9,2000-09,Oracle Park,stadium,San Francisco Giants,486.0,22.5,4.6296296,False
+394692,"Houston, TX",2000,4,2000-04,Minute Maid Park,stadium,Houston Astros,397.5,270.0,67.92453,False
+394865,"Minneapolis, MN",2000,10,2000-10,Xcel Energy Center,arena,Minnesota Wild,195.0,142.5,73.07692,False
+394492,"Columbus, OH",2000,10,2000-10,Nationwide Arena,arena,Columbus Blue Jackets,225.0,0.0,0.0,False
+394532,"Detroit, MI",2000,4,2000-04,Comerica Park,stadium,Detroit Tigers,465.0,199.5,42.903225,False
+394862,"Milwaukee, WI",2001,4,2001-04,American Family Field,stadium,Milwaukee Brewers,572.32001,423.39999,73.979591,False
+394982,"Pittsburgh, PA",2001,9,2001-09,Heinz Field,stadium,Pittsburgh Steelers,381.06,290.54001,76.245209,False
+394530,"Denver, CO",2001,9,2001-09,Empower Field at Mile High,stadium,Denver Broncos,584.0,421.94,72.25,False
+394514,"Dallas, TX",2001,10,2001-10,American Airlines Center,arena,Dallas Mavericks & Stars,569.40002,182.5,32.051281,False
+394982,"Pittsburgh, PA",2001,4,2001-04,PNC Park,stadium,Pittsburgh Pirates,395.66,286.16,72.324722,False
+394935,"Oklahoma City, OK",2002,10,2002-10,Paycom Center,arena,Oklahoma City Thunder,128.16,128.16,100.0,False
+394404,"Boston, MA",2002,9,2002-09,Gillette Stadium,stadium,New England Patriots,468.0,0.0,0.0,False
+394692,"Houston, TX",2002,9,2002-09,NRG Stadium,stadium,Houston Texans,612.0,446.39999,72.941177,False
+395055,"San Antonio, TX",2002,10,2002-10,AT&T Center,arena,San Antonio Spurs,252.0,211.67999,84.0,False
+394532,"Detroit, MI",2002,9,2002-09,Ford Field,stadium,Detroit Lions,619.20001,380.16,61.395348,False
+395078,"Seattle, WA",2002,9,2002-09,Lumen Field,stadium,Seattle Seahawks,518.40002,331.20001,63.888889,False
+394692,"Houston, TX",2003,10,2003-10,Toyota Center,arena,Houston Rockets,246.75,246.75,100.0,False
+394466,"Cincinnati, OH",2003,4,2003-04,Great American Ballpark,stadium,Cincinnati Reds,394.79999,352.5,89.285713,False
+394974,"Philadelphia, PA",2003,9,2003-09,Lincoln Financial Field,stadium,Philadelphia Eagles,507.60001,284.82001,56.111111,False
+394976,"Phoenix, AZ",2003,10,2003-10,Gila River Arena,arena,Arizona Coyotes,310.20001,253.8,81.818184,False
+394974,"Philadelphia, PA",2004,4,2004-04,Citizens Bank Park,stadium,Philadelphia Phillies,627.46002,441.14001,70.305679,False
+394849,"Memphis, TN",2004,10,2004-10,FedEx Forum,arena,Memphis Grizzlies,342.5,283.59,82.800003,False
+395056,"San Diego, CA",2004,4,2004-04,Petco Park,stadium,San Diego Padres,661.71002,478.13,72.256729,False
+394458,"Charlotte, NC",2005,10,2005-10,Spectrum Center,arena,Charlotte Hornets,281.95999,228.75999,81.132072,False
+395121,"St. Louis, MO",2006,9,2006-09,Busch Stadium,stadium,St. Louis Cardinals,467.20001,313.60001,67.123291,False
+394976,"Phoenix, AZ",2006,9,2006-09,State Farm Stadium,stadium,Arizona Cardinals,505.60001,322.56,63.79747,False
+394913,"New York, NY",2007,10,2007-10,Prudential Center,arena,New Jersey Devils,468.75,275.0,58.666668,False
+395209,"Washington, DC",2008,4,2008-04,Nationals Park,stadium,Washington Nationals,628.79999,531.59998,84.541985,False
+394705,"Indianapolis, IN",2008,9,2008-09,Lucas Oil Stadium,stadium,Indianapolis Colts,864.0,744.0,86.111115,False
+394913,"New York, NY",2009,4,2009-04,Yankee Stadium,stadium,New York Yankees,1582.6801,354.53,22.400612,False
+394913,"New York, NY",2009,4,2009-04,Citi Field,stadium,New York Mets,695.75,170.61,24.52174,False
+394514,"Dallas, TX",2009,9,2009-09,AT&T Stadium,stadium,Dallas Cowboys,1444.74,393.25,27.219431,False
+394943,"Orlando, FL",2010,10,2010-10,Amway Center,arena,Orlando Magic,452.20001,392.70001,86.842102,False
+394865,"Minneapolis, MN",2010,4,2010-04,Target Field,stadium,Minnesota Twins,517.65002,309.39999,59.770115,False
+394913,"New York, NY",2010,9,2010-09,MetLife Stadium,stadium,New York Giants & Jets,1868.3,0.0,0.0,False
+394982,"Pittsburgh, PA",2010,10,2010-10,PPG Paints Arena,arena,Pittsburgh Penguins,381.98999,365.32999,95.638626,False
+394913,"New York, NY",2012,10,2012-10,Barclays Center,arena,Brooklyn Nets,1130.0,595.51001,52.700001,False
+394856,"Miami, FL",2012,4,2012-04,LoanDepot Park,stadium,Miami Marlins,716.41998,580.82001,81.072556,False
+395057,"San Francisco, CA",2014,9,2014-09,Levi's Stadium,stadium,San Francisco 49ers,1417.0,356.42999,25.153847,False
+394865,"Minneapolis, MN",2016,9,2016-09,U.S. Bank Stadium,stadium,Minnesota Vikings,1145.88,537.84003,46.936852,False
+394775,"Las Vegas, NV",2016,10,2016-10,T-Mobile Arena,arena,Las Vegas Golden Knights,405.0,0.0,0.0,False
+395045,"Sacramento, CA",2016,10,2016-10,Golden 1 Center,arena,Sacramento Kings,577.79999,275.39999,47.663551,False
+394532,"Detroit, MI",2017,10,2017-10,Little Caesars Arena,arena,Detroit Pistons & Red Wings,914.78003,343.44,37.543453,False
+394347,"Atlanta, GA",2017,9,2017-09,Mercedes-Benz Stadium,stadium,Atlanta Falcons,1696.0,742.0,43.75,False
+394347,"Atlanta, GA",2017,4,2017-04,Truist Park,stadium,Atlanta Braves,712.32001,318.0,44.642857,False
+394862,"Milwaukee, WI",2018,10,2018-10,Fiserv Forum,arena,Milwaukee Bucks,539.71997,257.5,47.709923,False
+395057,"San Francisco, CA",2019,10,2019-10,Chase Center,arena,Golden State Warriors,1414.0,0.0,0.0,False
+753899,"Los Angeles, CA",2020,9,2020-09,SoFi Stadium,stadium,Los Angeles Chargers & Rams,5500.0,0.0,0.0,False
+394514,"Dallas, TX",2020,4,2020-04,Globe Life Field,stadium,Texas Rangers,1200.0,500.0,41.666668,False
+394775,"Las Vegas, NV",2020,9,2020-09,Allegiant Stadium,stadium,Las Vegas Raiders,1970.0,750.0,38.071068,False
+395078,"Seattle, WA",2021,10,2021-10,Climate Pledge Arena*,arena,Seattle Kraken,1150.0,0.0,0.0,False
+394913,"New York, NY",2021,10,2021-10,UBS Arena,arena,New York Islanders,1056.0,0.0,0.0,False
+753899,"Los Angeles, CA",2024,10,2024-10,Intuit Dome,arena,Los Angeles Clippers,1728.0,0.0,0.0,False
